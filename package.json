@@ -1,0 +1,19 @@
+{
+  "name": "starcounter",
+  "version": "0.0.1",
+  "description": "count a github user's stars",
+  "main": "starcounter.js",
+  "keywords": [
+    "github",
+    "stars"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "optimist": "~0.6.0"
+  },
+  "bin": {
+    "starcounter": "starcounter.js"
+  }
+}
