@@ -1,5 +1,5 @@
 {
-  "name": "starcounter",
+  "name": "starz",
   "version": "0.0.1",
   "description": "count a github user's stars",
   "main": "starcounter.js",
