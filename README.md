@@ -2,12 +2,12 @@ Count a GitHub user's total stars.
 
 Install
 ```
-npm install -g starcounter
+npm install -g starz
 ```
 
 Usage
 ```
-$ starcounter yyx990803 -l 5
+$ starz yyx990803 -l 5
 
 Total: 1131
 
