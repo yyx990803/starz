@@ -9,6 +9,13 @@
   ],
   "author": "Evan You",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yyx990803/starz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yyx990803/starz/issues"
+  },
   "dependencies": {
     "colors": "~0.6.2",
     "optimist": "~0.6.0"
